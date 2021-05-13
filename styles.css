@@ -14,7 +14,7 @@ body{
 }
 
 .b-gallery__item{
-    width: calc(33% - 20px);
+    width: calc(25% - 20px);
     margin: 10px;
 }
 
