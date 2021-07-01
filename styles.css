@@ -24,6 +24,9 @@ body{
 
 .b-gallery__title{
     display: block;
+    margin: 2px 0;
+    font-weight: normal;
+    font-size: 16px;
 }
 
 
